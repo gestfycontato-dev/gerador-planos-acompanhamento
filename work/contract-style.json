@@ -1,0 +1,171 @@
+{
+  "input": "C:\\Users\\vinic\\Documents\\Codex\\2026-08-12\\referenced-chatgpt-conversation-this-is-an\\work\\contrato-referencia.docx",
+  "fonts_by_char_count": {
+    "Calibri": 11161,
+    "Times New Roman": 1
+  },
+  "direct_run_formatting_runs": 152,
+  "direct_paragraph_formatting_paragraphs": 8,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "CONTRATO DE PRESTA\u00c7\u00c3O DE SERVI\u00c7OS EM SA\u00daDE",
+      "style": "Normal"
+    },
+    {
+      "para_index": 3,
+      "text": "I \u2013 DAS PARTES ",
+      "style": "Normal"
+    },
+    {
+      "para_index": 16,
+      "text": "II \u2013 DO OBJETO",
+      "style": "Normal"
+    },
+    {
+      "para_index": 24,
+      "text": "III \u2013 DO PAGAMENTO",
+      "style": "Normal"
+    },
+    {
+      "para_index": 27,
+      "text": "Par\u00e1grafo Primeiro",
+      "style": "Normal"
+    },
+    {
+      "para_index": 30,
+      "text": "Par\u00e1grafo Segundo",
+      "style": "Normal"
+    },
+    {
+      "para_index": 34,
+      "text": "Par\u00e1grafo Terceiro",
+      "style": "Normal"
+    },
+    {
+      "para_index": 37,
+      "text": "Par\u00e1grafo Quarto",
+      "style": "Normal"
+    },
+    {
+      "para_index": 40,
+      "text": "Par\u00e1grafo Quinto",
+      "style": "Normal"
+    },
+    {
+      "para_index": 43,
+      "text": "IV \u2013 DAS OBRIGA\u00c7\u00d5ES DO PACIENTE",
+      "style": "Normal"
+    },
+    {
+      "para_index": 54,
+      "text": "V \u2013 DAS OBRIGA\u00c7\u00d5ES DA CONTRATADA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 57,
+      "text": "Par\u00e1grafo \u00fanico",
+      "style": "Normal"
+    },
+    {
+      "para_index": 60,
+      "text": "VI \u2013 DAS DATAS E DA REMARCA\u00c7\u00c3O DE CONSULTAS E PROCEDIMENTOS",
+      "style": "Normal"
+    },
+    {
+      "para_index": 63,
+      "text": "Par\u00e1grafo Primeiro",
+      "style": "Normal"
+    },
+    {
+      "para_index": 66,
+      "text": "Par\u00e1grafo Segundo",
+      "style": "Normal"
+    },
+    {
+      "para_index": 69,
+      "text": "Par\u00e1grafo Terceiro",
+      "style": "Normal"
+    },
+    {
+      "para_index": 72,
+      "text": "Par\u00e1grafo Quinto",
+      "style": "Normal"
+    },
+    {
+      "para_index": 75,
+      "text": "VII \u2013 DA DESIST\u00caNCIA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 78,
+      "text": "Par\u00e1grafo primeiro",
+      "style": "Normal"
+    },
+    {
+      "para_index": 81,
+      "text": "Par\u00e1grafo segundo",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "CONTRATO DE PRESTA\u00c7\u00c3O DE SERVI\u00c7OS EM SA\u00daDE",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "I \u2013 DAS PARTES ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "CONTRATANTE (PACIENTE)",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": ":  ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "[",
+        "style": "Normal"
+      }
+    ],
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 11,
+        "text": "SIGILO E CONFIDENCIALIDADE: A Contratada, atrav\u00e9s de todo o seu corpo cl\u00ednico, funcion\u00e1rios, parceiros e prestadores de ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 12,
+        "text": "O(a) Contratante, no entanto, informa espontaneamente os dados preenchidos no caput deste contrato, autoriza o tratament",
+        "style": "Normal"
+      },
+      {
+        "para_index": 13,
+        "text": "RESULTADO: Todo procedimento realizado no corpo humano depende da resposta org\u00e2nica, \u00fanica, individual e pr\u00f3pria do corp",
+        "style": "Normal"
+      },
+      {
+        "para_index": 14,
+        "text": "CONDUTA DO(A) CONTRATANTE/PACIENTE: O bom andamento do procedimento/tratamento, ora contratado, depende exclusivamente d",
+        "style": "Normal"
+      },
+      {
+        "para_index": 15,
+        "text": "",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

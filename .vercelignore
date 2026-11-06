@@ -1,0 +1,9 @@
+# Ferramenta auxiliar de extração de contrato — não faz parte do app publicado
+work/
+
+# Cache/artefatos locais
+*.tsbuildinfo
+.claude/
+
+# Schema/migrations do Supabase são aplicados via CLI/dashboard, não fazem parte do build estático
+supabase/

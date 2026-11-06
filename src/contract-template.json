@@ -1,0 +1,537 @@
+[
+  {
+    "text": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS EM SAÚDE",
+    "alignment": "CENTER (1)",
+    "bold": true
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "I – DAS PARTES ",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "CONTRATANTE (PACIENTE):  [NOME DO PACIENTE], inscrito no CPF sob nº. {CPF}, residente e domiciliado em {ENDEREÇO}, possuidor do telefone {TELEFONE} e do e-mail {E-MAIL}.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "CONTRATADA: [RAZÃO SOCIAL DA CLÍNICA], inscrito no CNPJ sob n.º [CNPJ DA CLÍNICA], com sede em [ENDEREÇO DA CLÍNICA COM CEP], com contato profissional [TELEFONE DA CLÍNICA].",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "I - Condições Gerais:",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "SIGILO E CONFIDENCIALIDADE: A Contratada, através de todo o seu corpo clínico, funcionários, parceiros e prestadores de serviço estão profissionalmente submetidos ao sigilo e à confidencialidade de forma que nenhuma divulgação dos dados pessoais do(a) Contratante poderá ser feita, de forma pública ou particular. ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "O(a) Contratante, no entanto, informa espontaneamente os dados preenchidos no caput deste contrato, autoriza o tratamento destas informações pela Contratada e o seu eventual compartilhamento com profissionais da saúde submetidos ao dever profissional do sigilo, eventuais operadores de planos de saúde, hospitais, centros de atenção à saúde e/ou outros prestadores de serviço na saúde sempre que tal compartilhamento se fizer necessário para promover e/ou resguardar a saúde e o bem estar do(a) Contratante.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "RESULTADO: Todo procedimento realizado no corpo humano depende da resposta orgânica, única, individual e própria do corpo humano submetido ao procedimento. As reações e consequentemente o resultado de qualquer procedimento realizado no corpo humano dependem exclusivamente das peculiaridades do organismo do(a) Contratante/Paciente e, portanto, não podem ser previstos ou prometidos resultados. O resultado obtido por um paciente anteriormente não necessariamente será replicado em outro Contratante/Paciente ou até mesmo na próprio Contratante/Paciente em uma segunda oportunidade. ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "CONDUTA DO(A) CONTRATANTE/PACIENTE: O bom andamento do procedimento/tratamento, ora contratado, depende exclusivamente da conduta do(a) Contratante/Paciente e da observância das orientações profissionais realizadas pelo Contratada, por si ou seu corpo clínico, parceiros e prestadores de serviço, devendo o Contratante/Paciente informar aos profissionais qualquer alteração em seu organismo ou qualquer impossibilidade de cumprir as recomendações clínicas. ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "II – DO OBJETO",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Por este instrumento particular as partes acima qualificadas resolvem, de comum acordo, celebrar o presente Contrato de Prestação de Serviços Médicos, nos termos que seguem:",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Pelo presente contrato, a CONTRATADA se compromete à prestação do(s) seguinte(s) serviço(s) médico(s): ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Plano de acompanhamento clínico, no valor de R$ [VALOR TOTAL DO PLANO] [(VALOR TOTAL POR ESCRITO)] consistente em:",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "[COLOCAR O RESUMO DAS QUANTIDADES E SERVIÇOS DO PLANO]",
+    "alignment": "None",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "None",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "III – DO PAGAMENTO",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "A quantia acima descrita, correspondente ao procedimento ora contratado, será paga pelo(a) PACIENTE à CONTRATADA da seguinte forma: {FORMA DE PAGAMENTO}",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": " ",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Parágrafo Primeiro",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": " O(s) pagamento(s) realizado(s) mediante cheque ou boleto bancário somente terá(ão) sua quitação com a compensação do(s) respectivo(s) título(s) de crédito pela entidade bancária, sendo que a não compensação do(s) mesmo(s) tornará o(a) PACIENTE inadimplente e sujeito aos encargos de mora previstos neste instrumento.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo Segundo",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Na hipótese de atraso no pagamento do(s) valor(es) ajustado(s) no contrato, haverá vencimento antecipado das parcelas vincendas e o débito total será acrescido de correção monetária pelo(s) índice(s) governamental aplicável, ou outro que lhe vier a substituir, de multa moratória de 2% (dois por cento) e de juros moratórios de 1% (um por cento) ao mês, calculados pro rata die (0,033% ao dia), além do pagamento dos honorários advocatícios no ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "percentual de 20% (vinte por cento) do débito total atualizado, caso a CONTRATADA tenha que recorrer ao Judiciário para reaver seus créditos. Além disso, o(a) PACIENTE terá seus dados inscritos nos órgãos de proteção ao crédito e o título protestado em cartório. ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo Terceiro",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Não estão inclusas no preço ajustado no contrato eventuais despesas com medicamentos prescritos pela CONTRATADA para administração pelo(a) PACIENTE, com deslocamentos do(a) PACIENTE e seu(s) acompanhantes até o consultório médico ou outros procedimentos além dos que integram o tratamento contratado.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo Quarto",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Se antes, durante e ao final do tratamento, outros procedimentos se fizerem necessários, conforme avaliação da CONTRATADA e/ou solicitado pelo PACIENTE, esses serão objeto de aditamento ou de novo contrato a ser celebrado entre as partes e terão seus custos cobrados separadamente do(a) PACIENTE, o(a) qual será prévia e expressamente informado(a) pela CONTRATADA acerca dos seus valores, prazos e formas de pagamento.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo Quinto",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Na hipótese de descumprimento de quaisquer das obrigações ora assumidas, fica autorizada a imediata rescisão contratual e a promoção de eventual ação judicial para cobrança da obrigação devida. Em se tratando de inadimplência do preço contratado pelos serviços, a CONTRATADA terá direito à rescisão contratual, se tecnicamente for possível, sem risco à saúde do PACIENTE e a imediata cobrança do que é devido, reajustado monetariamente e acrescido de juros de mora e honorários advocatícios de 20% (vinte por cento) sobre o total do débito.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "IV – DAS OBRIGAÇÕES DO PACIENTE",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "São obrigações do(a) PACIENTE durante a vigência do contrato: ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "a) honrar com o pagamento do preço e na forma ajustada no contrato; ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "b) informar à CONTRATADA seu histórico de saúde, respondendo aos questionamentos a que for submetido durante a avaliação e o tratamento, sem nada omitir, especialmente no que se refere à problemas de saúde, passados e recentes, e à sensibilidade e alergias para medicamentos e anestésicos; ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "c) fornecer eventuais documentos de tratamentos médicos anteriores, caso lhe seja solicitado; ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "d) comparecer pontualmente às consultas, procedimentos e eventuais exames agendados pela CONTRATADA, sendo que eventual ausência deverá ser comunicada com antecedência mínima de 48 (quarenta e oito) horas, em se tratando de consulta e exame, ou 24 (vinte e quatro) horas, em se tratando de procedimento médico;",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "e) submeter-se a todos os exames, consultas e procedimentos solicitados pela CONTRATADA, de modo a propiciar condições para o sucesso do tratamento médico; ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "f) manter seus dados cadastrais sempre atualizados, informando à CONTRATADAS eventuais mudanças de endereços, telefones de contato, correio eletrônico etc.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "g) Usufruir dos serviços descritos na Cláusula II, parágrafo único, no tempo estabelecido para a duração do tratamento ora contratado. Caso ultrapassado esse prazo, será considerado abandono de tratamento e o paciente não terá direito à devolução dos valores pagos.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "V – DAS OBRIGAÇÕES DA CONTRATADA",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Os serviços contratados serão realizados no prazo descrito na Cláusula II, podendo, todavia, sofrer prorrogação ou alteração, de acordo com eventual complexidade que o caso apresentar no decorrer do tratamento, bem como pela resposta biológica do(a) PACIENTE à técnica empregada, assiduidade às consultas e seguimento das orientações fornecidas pela CONTRATADA.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo único",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "A CONTRATADA se compromete a realizar o procedimento/tratamento ora pactuado de acordo com a melhor técnica disposta na literatura médica, sempre atuando com zelo e diligência em prol do (a) PACIENTE.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "VI – DAS DATAS E DA REMARCAÇÃO DE CONSULTAS E PROCEDIMENTOS",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "As datas de todas as consultas e procedimentos integrantes do tratamento ora contratado serão definidas no dia do primeiro atendimento, de forma que o PACIENTE já sairá da sede ciente da data e horário de agendamento do próximo encontro e assim consecutivamente. Remarcações são possíveis com 48h de antecedência e respeitando o limite máximo de 3 (três) remarcações, obedecendo ainda o prazo final para a realização de todo o protocolo.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo Primeiro",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "As datas das consultas poderão ser antecipadas em caso de necessidade do PACIENTE identificada pelo médico responsável.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo Segundo",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "A confirmação de nova data para a realização da consulta ou procedimento dependerá da disponibilidade de agenda da CONTRATADA.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo Terceiro",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Em qualquer caso, se o PACIENTE não comparecer no dia e horário marcados e deixar de informar sua ausência ao setor responsável com a devida antecedência, conforme cláusula IV, letra “d”, a consulta e/ou o procedimento considerar-se-á realizado, hipótese em que não haverá a restituição de quaisquer valores.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo Quinto",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "A substituição de procedimentos e consultas integrantes do procedimento ora contratado somente poderá ser feita por orientação médica, em caso de necessidade devidamente identificada. Caso o PACIENTE opte por não realizar algum procedimento ou consulta, a restituição do valor correspondente será feita nos termos da cláusula seguinte, desde que o setor responsável seja comunicado com a devida antecedência.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "VII – DA DESISTÊNCIA",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Na hipótese de desistência do(a) PACIENTE em realizar o tratamento médico proposto, após a assinatura deste contrato, será devida multa no percentual de 30% (trinta por cento) do valor total do contrato em razão dos custos técnicos, operacionais e administrativos da CONTRATADA. Caso já tenha sido realizado algum procedimento, este será abatido do valor total do contrato, incidindo o percentual acima sobre o restante.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "None",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo primeiro",
+    "alignment": "None",
+    "bold": true
+  },
+  {
+    "text": " O montante a ser restituído ao(à) PACIENTE será calculado com base no valor de cada serviço avulso que integra o Plano contratado, conforme consta na Cláusula II, parágrafo único deste contrato, e não com base no valor com desconto pago pela contratação do plano de acompanhamento.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "Parágrafo segundo",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "O ressarcimento de eventuais valores ao(à) PACIENTE na forma deste contrato, ocorrerá no prazo de 30 (trinta) dias contados da assinatura do Termo de Rescisão (Distrato), podendo ser dividido em até 03 (três) parcelas, sem encargos. ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "VIII – DO ABANDONO",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "O(A) PACIENTE e/ou seu representante legal declara-se ciente de que o abandono ou desistência do tratamento médico já iniciado poderá acarretar prejuízos à sua saúde e estética, inclusive com agravamento do estado inicial, e de que a CONTRATADA estará isenta de qualquer responsabilidade pelos danos oriundos do seu abandono ou desistência. ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "IX – DO PRAZO ",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "O(A) PACIENTE fica ciente que deverá cumprir com o objeto do presente contrato dentro do prazo de 2 (dois) meses, a contar do final do plano de acompanhamento definido na assinatura do presente instrumento. Caso não seja cumprimento dentro do tempo estipulado findar-se-á o plano de acompanhamento, juntamente com as obrigações das partes, sem que haja qualquer penalidade para ambos.  ",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "X – DO FORO",
+    "alignment": "JUSTIFY (3)",
+    "bold": true
+  },
+  {
+    "text": "Fica eleito o foro da Comarca de [Cidade/UF da clínica] para dirimir quaisquer dúvidas relativas ao presente contrato e seus documentos complementares, renunciando expressamente a qualquer outro por mais privilegiado que seja.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "E assim, por estarem justas e contratadas, as partes assinam o presente instrumento particular de Contrato de Prestação de Serviços Médicos em 2 (duas) vias de igual forma e teor.",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "[Cidade da Clínica],  [DIA] de [MÊS] de [ANO]",
+    "alignment": "CENTER (1)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "CENTER (1)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "JUSTIFY (3)",
+    "bold": false
+  },
+  {
+    "text": "____________________________________________",
+    "alignment": "CENTER (1)",
+    "bold": false
+  },
+  {
+    "text": "CONTRATANTE",
+    "alignment": "CENTER (1)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "CENTER (1)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "CENTER (1)",
+    "bold": false
+  },
+  {
+    "text": "____________________________________________",
+    "alignment": "CENTER (1)",
+    "bold": false
+  },
+  {
+    "text": "CONTRATADA",
+    "alignment": "CENTER (1)",
+    "bold": false
+  },
+  {
+    "text": "",
+    "alignment": "None",
+    "bold": false
+  },
+  {
+    "text": " ",
+    "alignment": "None",
+    "bold": true
+  }
+]

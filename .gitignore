@@ -1,0 +1,24 @@
+# Dependências e artefatos locais
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Ferramentas auxiliares fora do app (scripts avulsos, não fazem parte do build)
+work/node_modules/
+work/*.log
+
+# Variáveis de ambiente locais (credenciais reais — nunca versionar)
+.env
+.env.*
+!.env.example
+
+# Configuração local da Vercel
+.vercel/
+
+# Configuração local do Claude Code (contém tokens em regras de permissão)
+.claude/settings.local.json
+
+# Saída de scripts de teste (ids/segredos de ambiente de teste, nunca versionar)
+scripts/.seed-output.json
+test-results/
+playwright-report/
